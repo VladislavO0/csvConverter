@@ -1,13 +1,12 @@
+Task list:
 
-Cписок задач:
+1. Upload the file "Input.csv" and "TypeInfos.json"
+2. Perform a connection with TypeInfos for each line from Input.csv.json by type.
 
-1. Загрузить файл "Input.csv" и "TypeInfos.json" 
-2.  Выполнить для каждой строки из Input.csv соединение с TypeInfos.json по типу.
+**Example:**
 
-**Пример:**
-
-Для строки: root.SSN1.ZRP1.IL2.ZD1 указан тип ZD.
-должно получиться:
+For the string:  root.SSN1.ZRP1.IL2.ZD1 type is specified.
+it should work out:
 
 | tag | offset |
 | ------ | ------ |
@@ -20,7 +19,7 @@ Cписок задач:
 | root.SSN1.ZRP1.IL2.ZD1.Time12_in | offset |
 | root.SSN1.ZRP1.IL2.ZD1.Time13_in | offset |
 
-где *offset* - это смещение от предыдушего на размер тип данных
+where *offset* is the offset from the previous one by the size of the data type
 
 | tag | offset |
 | ------ | ------ |
@@ -29,16 +28,11 @@ Cписок задач:
 | root.SSN1.ZRP1.IL2.ZD1.Time02 | 12 |
 | root.SSN1.ZRP1.IL2.ZD1.Time03 | 20 |
 
-
-3.  Сохранить полученые значение в формате XML по шаблону.
-
-
+3.  Save the received value in XML format according to the template.
 ```xml
 <item Binding="Introduced">
     <node-path>{{ tag }}</node-path>
     <address>{{ offset }}</address>
 </item>
 ```
-
-
-4. Реализовать графический интерфейс для загрузки *.csv файлов и выбора строк .csv необходимых для конвертации.
+4. Implement a graphical interface for uploading *.csv files and selecting lines.csv required for conversion.
