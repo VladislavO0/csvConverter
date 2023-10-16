@@ -47,7 +47,7 @@ namespace csvConvert.Model
         {
             var JD = new JsonData();
             var fileExist = File.Exists(m_jsonPath);
-            if (!fileExist) //если файл не существует создаем его, иначе будет исключение
+            if (!fileExist) 
             {
                 return new List<TypeInfo>();
             }

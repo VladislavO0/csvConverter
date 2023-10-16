@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfJoinData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <JoinData>
+    <root>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Cmd</node-path>
+        <address>0</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time01</node-path>
+        <address>4</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time02</node-path>
+        <address>12</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time03</node-path>
+        <address>20</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time04</node-path>
+        <address>28</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time05</node-path>
+        <address>36</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time06</node-path>
+        <address>44</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time07</node-path>
+        <address>52</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time08</node-path>
+        <address>60</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time09</node-path>
+        <address>68</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time10</node-path>
+        <address>76</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time11</node-path>
+        <address>84</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time12</node-path>
+        <address>92</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time13</node-path>
+        <address>100</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.avar</node-path>
+        <address>108</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.co</node-path>
+        <address>109</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.cz</node-path>
+        <address>110</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.ec</node-path>
+        <address>111</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.imit</node-path>
+        <address>112</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.kvo</node-path>
+        <address>113</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.kvz</node-path>
+        <address>114</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.man</node-path>
+        <address>115</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.mpo</node-path>
+        <address>116</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.mpz</node-path>
+        <address>117</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.muft</node-path>
+        <address>118</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.mvvo</node-path>
+        <address>119</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.mvvz</node-path>
+        <address>120</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.neispr</node-path>
+        <address>121</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.state</node-path>
+        <address>122</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Cmd_in</node-path>
+        <address>123</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time01_in</node-path>
+        <address>127</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time02_in</node-path>
+        <address>135</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time03_in</node-path>
+        <address>143</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time04_in</node-path>
+        <address>151</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time05_in</node-path>
+        <address>159</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time06_in</node-path>
+        <address>167</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time07_in</node-path>
+        <address>175</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time08_in</node-path>
+        <address>183</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time09_in</node-path>
+        <address>191</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time10_in</node-path>
+        <address>199</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time11_in</node-path>
+        <address>207</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time12_in</node-path>
+        <address>215</address>
+      </Item>
+      <Item Binding="Introduced">
+        <node-path>root.SSN1.ZRP1.IL1.ZD1.Time13_in</node-path>
+        <address>223</address>
+      </Item>
+    </root>
+  </JoinData>
+</ArrayOfJoinData>

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Home\\OneDrive\\Документы\\C#\\csvConvert\\csvConvert.csproj",
+      "projectUniqueName": "C:\\Users\\Home\\Documents\\C#\\transneft\\csvConverter\\csvConvert.csproj",
       "projectName": "csvConvert",
-      "projectPath": "C:\\Users\\Home\\OneDrive\\Документы\\C#\\csvConvert\\csvConvert.csproj",
+      "projectPath": "C:\\Users\\Home\\Documents\\C#\\transneft\\csvConverter\\csvConvert.csproj",
       "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Home\\OneDrive\\Документы\\C#\\csvConvert\\obj\\",
+      "outputPath": "C:\\Users\\Home\\Documents\\C#\\transneft\\csvConverter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",

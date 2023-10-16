@@ -4,10 +4,7 @@ using System.IO;
 using System.Xml.Serialization;
 
 namespace csvConvert.Model
-{
-
-
-
+{ 
     internal class ConvertToXML
     {
         public bool AllXml {get; set;} = true;

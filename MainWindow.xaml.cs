@@ -72,7 +72,7 @@ namespace csvConvert
                 {                   
                     m_JoinTables = new JoinTables() { m_csvData = m_csvData, m_jsonData = m_jsonData };
                     m_Join = m_JoinTables.join();
-                    m_xmlPath = m_path + "\\result\\AllBinding.xml";
+                    m_xmlPath = m_path + "\\AllBinding.xml";
                     m_convert = new ConvertToXML() { m_xmlPath = m_xmlPath, m_joinTable = m_Join };
                     m_convert.Serialize();
                     ConvertCSV.Visibility = Visibility.Visible;
@@ -103,7 +103,7 @@ namespace csvConvert
                 {
                     m_JoinTables = new JoinTables() { m_csvData = m_csvData, m_jsonData = m_jsonData };
                     m_Join = m_JoinTables.join();
-                    m_xmlPath = m_path + "\\result\\AllBinding.xml";
+                    m_xmlPath = m_path + "\\AllBinding.xml";
                     m_convert = new ConvertToXML() { m_xmlPath = m_xmlPath, m_joinTable = m_Join };
                     m_convert.Serialize();
                     ConvertCSV.Visibility = Visibility.Visible;
@@ -120,7 +120,7 @@ namespace csvConvert
         {
             m_JoinTables = new JoinTables() { m_csvData = m_csvData, m_jsonData = m_jsonData, m_chosenBinding = true};
             m_Join = m_JoinTables.join();
-            m_xmlPath = m_path + "\\result\\ChosenBinding.xml";
+            m_xmlPath = m_path + "\\ChosenBinding.xml";
             m_convert = new ConvertToXML() { m_xmlPath = m_xmlPath, m_joinTable = m_Join};
             m_convert.Serialize();
         }
